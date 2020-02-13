@@ -1,0 +1,11 @@
+.mobile-medias{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  z-index: $z-index;
+  display: none;
+  a{
+    color: #222;
+  }
+}
